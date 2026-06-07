@@ -1,0 +1,11 @@
+{
+  "description": "My personal esports website built with Lovable",
+  "domain": "sh.gg",
+  "subdomain": "z7vx-esports",
+  "owner": {
+    "email": "z7vx-esports@gmail.com"
+  },
+  "records": {
+    "CNAME": ["https://z7vx-esports.lovable.app"]
+  }
+}
